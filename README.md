@@ -11,3 +11,5 @@ Minimum functionality is:
   1. Show time and date
   2. Maintain accurate time and date
   3. Receive and alert of messages received on a linked smartphone
+
+https://www.youtube.com/watch?v=HMls9a8-vaY
